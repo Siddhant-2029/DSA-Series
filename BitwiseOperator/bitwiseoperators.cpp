@@ -22,7 +22,6 @@ int main()
     cout<<(a<<2)<<endl;
     //and here it shift to left by 2 so a which was 111 will become 11100 or 4+8+16=28
 
-   
-   
+
     return 0;
 }
